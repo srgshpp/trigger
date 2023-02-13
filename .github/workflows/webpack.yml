@@ -2,8 +2,7 @@ name: Retrieve and deploy content
 
 on:
   push:
-    schedule:
-      - cron: '0 0 * * *'
+      branches: [ "main" ]
 
 jobs:
   build:
