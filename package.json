@@ -1,0 +1,20 @@
+{
+  "name": "belarus",
+  "version": "1.0.0",
+  "description": "Метрики",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shappoff/metrics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shappoff/metrics/issues"
+  },
+  "homepage": "https://github.com/shappoff/metrics#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
