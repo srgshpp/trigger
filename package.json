@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Метрики",
   "main": "index.js",
+  "scripts": {
+    "trigger": "node ./fetch-trigger.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shappoff/metrics.git"
