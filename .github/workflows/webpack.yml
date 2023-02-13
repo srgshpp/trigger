@@ -23,4 +23,4 @@ jobs:
     - name: Trigger
       run: |
         npm install
-        node ./fetch-trigger.js
+        npm run trigger
